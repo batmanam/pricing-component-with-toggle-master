@@ -234,4 +234,10 @@ button:active{
     .box1.active{
         margin-bottom: 3rem ;
     }
+
+    .attribution,
+    .attribution a{
+        font-size: 0.8rem;
+        padding-bottom: 3rem;
+    }
 }
